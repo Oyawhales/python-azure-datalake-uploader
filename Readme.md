@@ -23,15 +23,15 @@ Before you begin, make sure you have the following:
 
 Here’s a breakdown of the important files in this repository:
 
-├── Azure_file_upload.py         # Main Python script to interact with Azure Data Lake
+├── Azure_file_upload.py                        # Main Python script to interact with Azure Data Lake
 
-├── .env                         # Environment variables (not shared publicly)
+├── .env                                        # Environment variables (not shared publicly)
 
-├── README.md                    # Project documentation
+├── README.md                                   # Project documentation
 
-├── requirements.txt             # Python dependencies
+├── requirements.txt                            # Python dependencies
 
-└── Data.csv                     # Sample data file for uploading
+└── Data.csv                                    # Sample data file for uploading
 
 
 ---
